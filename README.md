@@ -1,1 +1,1 @@
-# MediMinds---Hackathon-Project
+Medical Application
