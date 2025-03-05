@@ -210,12 +210,4 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-//
-floatingActionButton: FloatingActionButton(
-  onPressed: () {
-    // Handle action (e.g., open booking screen)
-  },
-  child: Icon(Icons.add),
-),
-floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked, // Places it in the center
-//
+
